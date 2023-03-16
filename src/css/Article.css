@@ -1,0 +1,15 @@
+.article {
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+h5 a {
+    text-decoration: underline;
+    color: black;
+}
+
+h5 a:hover {
+    text-decoration: underline;
+    color: black;
+}
